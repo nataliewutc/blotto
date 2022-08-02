@@ -1,6 +1,6 @@
 # Blotto algorithm 
 
-Python algorithm to optimise solution for blotto game 
+Python algorithm to optimise solution for blotto game. Read about the idea of the game here: https://en.wikipedia.org/wiki/Blotto_game 
 
 ## Strategy:
 - Create a strategy that is optimal against other relatively optimal algorithms
